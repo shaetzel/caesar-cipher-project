@@ -1,1 +1,2 @@
 # caesar-cipher-project
+This project mimics the Caesar cipher method for encoding messages. The method works by shifting each letter along the alphabet a specified number of times. In this program the user has the capability to specify the number of keys and the value of the keys, which dictates how much each letter in the message is shifted. Then the user enters a message to be encoded. The program executes the Caesar cipher and finishes by printing both the encoded and the decoded message.
